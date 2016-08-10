@@ -73,7 +73,6 @@ function FormGenerator(inputs = {}) {
         return [
           <ArrayField
             formGenerator={this}
-            ref={key}
             key={0}
             id={0}
             schema={schema[0]}
