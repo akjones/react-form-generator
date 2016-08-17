@@ -1,1 +1,1 @@
-module.exports = require('./dist/FormGenerator.js');
+module.exports = require('./src/FormGenerator.jsx');
